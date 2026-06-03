@@ -85,7 +85,7 @@ export default function Hero() {
         {/* Location */}
         <motion.div variants={item} className="flex items-center justify-center gap-1.5 text-muted text-sm mb-10">
           <MapPin size={13} />
-          <span>Navi Mumbai, Maharashtra, India</span>
+          <span>Mumbai, Maharashtra, India</span>
           <span className="mx-2 text-border">·</span>
           <span>Final Year @ DY Patil University</span>
         </motion.div>
