@@ -52,7 +52,7 @@ export default function Navbar() {
 
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="https://drive.google.com/file/d/1hla8wiij3mLFS7ZS1Jp8Pqw4nuWPfV_a/view"
+              href="https://drive.google.com/file/d/1zM23lqDlop1Igfhhbc6eYiOi9nz4Em3C/view"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary text-xs"
@@ -90,7 +90,7 @@ export default function Navbar() {
                 </a>
               ))}
               <a
-                href="https://drive.google.com/file/d/1hla8wiij3mLFS7ZS1Jp8Pqw4nuWPfV_a/view"
+                href="https://drive.google.com/file/d/1zM23lqDlop1Igfhhbc6eYiOi9nz4Em3C/view"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary mt-2 justify-center"
